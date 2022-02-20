@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="mailto:barancanatbas102@gmail.com" target="_blank" rel="nofollow"><img alt="Cenk's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## My Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenkayla&hide=html,jupyter notebook,cmake, makefile&layout=compact&langs_count=10&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barancanatbas&hide=html,jupyter notebook,cmake, makefile&layout=compact&langs_count=10&show_icons=true">
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=barancanatbas&count_private=true&show_icons=true)
 
