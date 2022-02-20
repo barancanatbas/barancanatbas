@@ -1,32 +1,16 @@
-
-<!--
-**barancanatbas/barancanatbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
-
+### Greetings, I'm Baran Can Atbaş 👋
+- I have been dealing with software since 2018.
+- I have worked on php and vuejs before.
 - 🔭 I’m currently working on Go
-- 🌱 I’m currently learning Go, Vue, AWS, CI/CD
-- 📫 How to reach me: ...
- <a href="https://www.linkedin.com/in/baran-can-atba%C5%9F-8855761b1/" target="_blank" rel="nofollow"><img alt="baran's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:barancanatbas102@gmail.com" target="_blank" rel="nofollow"><img alt="Cenk's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ## My Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barancanatbas&hide=html,jupyter notebook,cmake, makefile&layout=compact&langs_count=10&show_icons=true">
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=barancanatbas&count_private=true&show_icons=true)
+<img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" style="width:100%">
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=barancanatbas&hide_border=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barancanatbas&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
