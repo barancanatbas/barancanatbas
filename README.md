@@ -1,7 +1,7 @@
 ### Greetings, I'm Baran Can Atbaş 👋
 - I have been dealing with software since 2018.
 - I have worked on php and vuejs before.
-- I’m currently working on Go and nodejs
+- I’m currently working on Go, Java and nodejs
 
 
 ## My Stats:
